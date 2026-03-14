@@ -34,7 +34,7 @@ Instrucciones de uso:
 --MODULO DE NOTIFICACIÓN POR STOCK BAJO
 
 -Contiene un aviso de notificacion cuando el stock esta bajo, una animacion en concreto en pantalla de inicio
-
+--MODULO DE CHATBOT IA 
 
 
 
